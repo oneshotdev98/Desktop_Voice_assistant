@@ -1,4 +1,3 @@
-<!-- Development commit 0 -->
 # Jarvis Desktop Voice Assistant🔥
 
 <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="">
